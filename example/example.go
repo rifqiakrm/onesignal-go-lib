@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/kelilinq/onesignal-go-lib"
+	"github.com/rifqiakrm/onesignal-go-lib"
 	"log"
 	"os"
 
